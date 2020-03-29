@@ -6,12 +6,12 @@ React Redux Shopping Cart Application
 * react-redux
 # Start App
 
-functionalities
-shopping cart with tax and estimated amount calculation
-user can enter promocode "DISCOUNT" and avail 50% off - done in redux
+# functionalities
+* shopping cart with tax and estimated amount calculation
+* user can enter promocode "DISCOUNT" and avail 50% off - done in redux
 
-Installation
-clone or download the project
-npm install
-npm start
+# Installation
+* clone or download the project
+* npm install
+* npm start
 
